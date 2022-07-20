@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atakoutene
+- 👋 Hi, I’m Aurelien Fredy Takou a computer science sophomore student!
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning software development more precisely fullstack developpment and datastructures.
 - 💞️ I’m looking to collaborate on anything related to software engineering and fullstack developpment in which i will learn new things.
